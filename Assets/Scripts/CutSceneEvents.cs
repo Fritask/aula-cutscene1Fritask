@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class FimDeCamera : MonoBehaviour {
+public class CutSceneEvents : MonoBehaviour {
 
     public void CameraAcabou() {
         CutSceneController.instancia.ProximaCamera();
